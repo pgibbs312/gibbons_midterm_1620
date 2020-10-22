@@ -5,14 +5,14 @@ A01020073
 midterm for 1620 october 2020
 BCIT
 ## Q1
-Git is an open source distributed version control system. Git allows you to track changes in the source code during development. This system software is great for working in teams as you can track the changes that have been made.
+Git is an open source distributed version control system. Git always you to track changes in the source code during development. This system software is great for working in teams as you can track the changes that have been made.
 
 GitHub is another software that provides hosting for software development but is mainly used to host the Git repositories
 
 The differnces between to two is that Git is the tool to create the repositories while GitHub is what hosts the services of Git
 
 ## Q2
-A branch in git is a movable pointer that allows you to commit the code. This is extreamly usful for tracking changes that have been made to the code. As you start commiting the branch pointer moves forward which allows you to retrace your steps.
+A branch in git is a movable pointer that allows you to commit the code. This is extreamly usful for tracking changes that have been made to the code as you start making commits the branch pointer moves forward and you can easily retrace your steps.
 
 To make a new branch and to switch to that particular branch you type
 $ git checkout -b [name_of_new_branch ]

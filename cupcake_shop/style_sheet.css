@@ -41,26 +41,22 @@ h2{
 }
 .img2{
     float: left;
-    width: 300px;
-    height: 260px;
     padding: 0 10px 0 0;
 }
 .img3{
     float:right;
-    width: 300px;
-    height: 260px;
     padding: 0 10px 0 0;
 }
 .img4{
     float:left;
-    width: 300px;
-    height: 260px;
+    width: auto;
+    height: auto;
     padding: 0 10px 0 0;
 }
 .img5{
     float:right;
-    width: 300px;
-    height: 260px;
+    width: auto;
+    height: auto;
     padding: 0 10px 0 0;
 }
 
